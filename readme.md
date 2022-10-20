@@ -10,3 +10,5 @@ For more informations, see https://git-scm.com/
 * It is a convenient way to modify the most recent commit. 
 * It lets you combine staged changes with the previous commit instead of creating an entirely new commit. 
 * It can also be used to simply edit the previous commit message without changing its snapshot. 
+
+*** note from oksana
